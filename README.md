@@ -26,9 +26,11 @@
 
 
 <!-- Addign some stats by the help of anurag github -->
+<!-- Most lang stats -->
 <a href="https://github.com/deepakjaiswal2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjaiswal2018&theme=dark&hide_langs_below=1" />
 </a>
+<!-- Profile highlights -->
 <a href="https://github.com/deepakjaiswal2018">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2018&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2018&show_icons=true&theme=dark&line_height=32" alt="Deepak's github stats"/>
 </a>
