@@ -32,5 +32,5 @@
 </a>
 <!-- Profile highlights -->
 <a href="https://github.com/deepakjaiswal2018">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2018&show_icons=true&theme=dark&line_height=38" alt="Deepak's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2018&show_icons=true&theme=dark&line_height=40" alt="Deepak's github stats"/>
 </a>
