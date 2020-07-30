@@ -13,6 +13,6 @@
 - 👯 I’m looking to collaborate on [Not Now].
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java Development Or Programming problem related stuff.
-- 📫 How to reach me: [Twitter - @deepakjaiswal__](https://twitter.com/deepakjaiswal__) , [GMail - @deepakjaiswal1950](http://lmgtfy.com/?q=deepakjaiswal1950)
+- 📫 How to reach me: [Twitter - @deepakjaiswal__](https://twitter.com/deepakjaiswal__) , [At Google - @deepakjaiswal1950](http://lmgtfy.com/?q=deepakjaiswal1950)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
