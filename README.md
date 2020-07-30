@@ -16,3 +16,9 @@
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/deepakjaiswal2018) , [Twitter - @deepakjaiswal__](https://twitter.com/deepakjaiswal__) , [Gmail](mailto:deepakjaiswal1950@gmail.com) , [Google - @deepakjaiswal1950](http://lmgtfy.com/?q=deepakjaiswal1950)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spending a lots of time on building projects and solving programming problems.
+
+<!-- Adding link -->
+[![Twitter: deepakjaiswal__](https://img.shields.io/twitter/follow/deepakjaiswal__?style=social)](https://twitter.com/deepakjaiswal__)
+[![Linkedin: deepakjaiswal2018](https://img.shields.io/badge/-deepakjaiswal2018-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakjaiswal2018/)](https://www.linkedin.com/in/deepakjaiswal2018/)
+[![GitHub deepakjaiswal2018](https://img.shields.io/github/followers/deepakjaiswal2018?label=follow&style=social)](https://github.com/deepakjaiswal2018)
+[![website](https://img.shields.io/badge/PortfolioWebsite-deepakjaiswal.ml-2648ff?style=flat-square&logo=google-chrome)](https://deepakjaiswal.ml/)
