@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakjaiswal2018&label=Views&color=red&style=plastic" alt="deepakjaiswal2018" /> </p>
 
+<p align="left"> <img src="https://azu.github.io/github-longest-streak/?user=deepakjaiswal2018" alt="deepakjaiswal2018" /> </p>
+
 <!--
 **deepakjaiswal2018/deepakjaiswal2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
