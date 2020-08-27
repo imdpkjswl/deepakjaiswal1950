@@ -32,11 +32,10 @@
 
 
 # DEEPAK JAISWAL
-```
 SOFTWARE DEVELOPMENT ENGINEER
 deepakjaiswal1950@gmail.com
 +91 - 9648103058
-```
+
 ## Profile
 Self-motivated individual aspiring to work in a result-oriented environment, willing to learn and share knowledge.
 
@@ -100,5 +99,6 @@ etc...................................................
 
 
 
-
+```
 Deepak Jaiswal — deepakjaiswal1950@gmail.com — +91 - 9648103058
+```
