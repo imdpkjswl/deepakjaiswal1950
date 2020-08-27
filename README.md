@@ -27,15 +27,6 @@
 
 
 
-<!-- Addign some stats by the help of anurag github -->
-<!-- Most lang stats -->
-<a href="https://github.com/deepakjaiswal2018">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjaiswal2018&theme=dark&hide_langs_below=1" />
-</a>
-<!-- Profile highlights -->
-<a href="https://github.com/deepakjaiswal2018">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2018&show_icons=true&theme=dark&line_height=40" alt="Deepak's github stats"/>
-</a>
 
 
 
@@ -68,6 +59,7 @@ Learnt Data Structures and Algorithms from University of California San Diego, N
 C/C++
 JAVA
 Basic Python
+MySql
 Data Structure & Algorithm
 HTML
 CSS
@@ -76,7 +68,36 @@ Windows
 Linux
 
 ## Projects
-Quadratic Equation Solver
-Andriod App -2019
+Quadratic Equation Solver - Andriod App-2019
+Face-Detection-Using-ML-Kit - Android App-2020
+Student-Management-System-CRUD-App-Andoid App-2020
+TicTacToe -Android Game-2020
+Empolyee-Management-System-StandAlone Application-2020
+My-First-Media-Player-App-Android App-2020
+Text-Recognition-Using-ML-Kit-Android App-2020
+Covid19Tracker-Android App-2020
+TriviaQuiz-Android App-2020
+TextToSpeech-App-Android App-2020
+etc...................................................
+
+
+
+
+
+
+
+<!-- Addign some stats by the help of anurag github -->
+<!-- Most lang stats -->
+<a href="https://github.com/deepakjaiswal2018">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjaiswal2018&theme=dark&hide_langs_below=1" />
+</a>
+<!-- Profile highlights -->
+<a href="https://github.com/deepakjaiswal2018">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2018&show_icons=true&theme=dark&line_height=40" alt="Deepak's github stats"/>
+</a>
+
+
+
+
 
 Deepak Jaiswal — deepakjaiswal1950@gmail.com — +91 - 9648103058
