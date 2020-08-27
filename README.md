@@ -84,17 +84,17 @@ GitHub
 Android Development
 
 ## Projects
-### Quadratic Equation Solver - Andriod App-2019
-### Face-Detection-Using-ML-Kit - Android App-2020
-### Student-Management-System-CRUD-App-Andoid App-2020
-### TicTacToe -Android Game-2020
-### Empolyee-Management-System-StandAlone Application-2020
-### My-First-Media-Player-App-Android App-2020
-### Text-Recognition-Using-ML-Kit-Android App-2020
-### Covid19Tracker-Android App-2020
-### TriviaQuiz-Android App-2020
-### TextToSpeech-App-Android App-2020
-### etc...................................................
+#### Quadratic Equation Solver - Andriod App-2019
+#### Face-Detection-Using-ML-Kit - Android App-2020
+#### Student-Management-System-CRUD-App-Andoid App-2020
+#### TicTacToe -Android Game-2020
+#### Empolyee-Management-System-StandAlone Application-2020
+#### My-First-Media-Player-App-Android App-2020
+#### Text-Recognition-Using-ML-Kit-Android App-2020
+#### Covid19Tracker-Android App-2020
+#### TriviaQuiz-Android App-2020
+#### TextToSpeech-App-Android App-2020
+#### etc...................................................
 
 
 
