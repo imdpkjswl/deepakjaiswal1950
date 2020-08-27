@@ -36,3 +36,47 @@
 <a href="https://github.com/deepakjaiswal2018">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2018&show_icons=true&theme=dark&line_height=40" alt="Deepak's github stats"/>
 </a>
+
+
+
+
+# DEEPAK JAISWAL
+SOFTWARE DEVELOPMENT ENGINEER
+deepakjaiswal1950@gmail.com
++91 - 9648103058
+
+## Profile
+Self-motivated individual aspiring to work in a result-oriented environment, willing to learn and share knowledge.
+
+## Education
+Sai Vidya Institute of Technology, Bengaluru
+Bachelor Of Engineering, Computer Science — 8.2 GPA
+AUGUST 2018 - PRESENT
+Ranked in top 10 consistently from 3rd to 4th semester in class.
+
+## Certifications
+### Object Oriented Programming in Java(Coursera)
+Completed Object Oriented Programming Course in Java from University of California San Diego through Coursera.
+
+### Programming for Everybody (Getting Started with Python)
+Offered by University of Michigan through Coursera. This course helps me to learn basics of programming computers using Python.
+
+### Data Structure & Algorithms(Coursera)
+Learnt Data Structures and Algorithms from University of California San Diego, National Research University Higher School of Economics.
+
+## Skills
+C/C++
+JAVA
+Basic Python
+Data Structure & Algorithm
+HTML
+CSS
+Basic Android Studios/Intellij
+Windows
+Linux
+
+## Projects
+Quadratic Equation Solver
+Andriod App -2019
+
+Deepak Jaiswal — deepakjaiswal1950@gmail.com — +91 - 9648103058
