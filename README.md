@@ -56,10 +56,10 @@ Offered by University of Michigan through Coursera. This course helps me to lear
 Learnt Data Structures and Algorithms from University of California San Diego, National Research University Higher School of Economics.
 
 ## Skills
-### Operating System:
-Linux, Windows
+### Operating System:                                 Programming Language:
+Linux, Windows                                        C/C++, Java, Python, Java-Script
 
-### Programming Language:
+### 
 C/C++, Java, Python, Java-Script
 
 ### Web-Technology:
