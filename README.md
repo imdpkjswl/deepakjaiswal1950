@@ -1,7 +1,7 @@
 ## Hello, I'm [Deepak Jaiswal!](https://deepakjaiswal.ml/) 👋
 
 
-[Check Longest Streak](https://azu.github.io/github-longest-streak/?user=deepakjaiswal2018)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakjaiswal2018&label=Views&color=blue&style=plastic" alt="deepakjaiswal2018" /> </p>
 
