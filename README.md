@@ -1,4 +1,4 @@
-## Hello, I'm [Deepak Jaiswal!](https://deepakjaiswal.ml/) 👋
+## Hola, I'm [Deepak Jaiswal!](https://deepakjaiswal.netlify.app/) 👋
 
 
 
@@ -23,7 +23,7 @@
 [![Twitter: deepakjaiswal__](https://img.shields.io/twitter/follow/deepakjaiswal__?style=social)](https://twitter.com/deepakjaiswal__)
 [![Linkedin: deepakjaiswal2018](https://img.shields.io/badge/-deepakjaiswal2018-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakjaiswal2018/)](https://www.linkedin.com/in/deepakjaiswal2018/)
 [![GitHub deepakjaiswal2018](https://img.shields.io/github/followers/deepakjaiswal2018?label=follow&style=social)](https://github.com/deepakjaiswal2018)
-[![website](https://img.shields.io/badge/PortfolioWebsite-deepakjaiswal.ml-2648ff?style=flat-square&logo=google-chrome)](https://deepakjaiswal.ml/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-deepakjaiswal.ml-2648ff?style=flat-square&logo=google-chrome)](https://deepakjaiswal.netlify.app/)
 
 
 
@@ -46,5 +46,5 @@
 
 
 ```
-Deepak Jaiswal — deepakjaiswal1950@gmail.com — +91 - 9648103058
+<------   Deepak Jaiswal — deepakjaiswal1950@gmail.com   ------>
 ```
