@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on [Not Yet Working].
-- 🌱 I’m currently learning Algorithms & doing coding practices.
+- 🌱 I’m currently learning Algorithms & Web Development.
 - 👯 I’m looking to collaborate on [Not Now].
 - 🤔 I’m looking for internship in technical fields.
 - 💬 Ask me about Java Development Or Programming problem related stuff.
