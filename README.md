@@ -46,5 +46,5 @@
 
 
 ```
-<------   Deepak Jaiswal — deepakjaiswal1950@gmail.com   ------>
+                              <------   DEEPAK JAISWAL  ------>
 ```
