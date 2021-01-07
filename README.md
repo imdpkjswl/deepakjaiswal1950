@@ -1,4 +1,4 @@
-## Hola, I'm [Deepak Jaiswal!](https://deepakjaiswal.netlify.app/) 👋
+## Hello, I'm [Deepak Jaiswal!](https://github.com/deepakjaiswal2018/) 👋
 
 
 
