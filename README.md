@@ -17,7 +17,7 @@
 - 💬 Ask me about Java Development Or Programming problem related stuff.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/deepakjaiswal2018) , [Twitter - @deepakjaiswal__](https://twitter.com/deepakjaiswal__) , [Gmail](mailto:deepakjaiswal1950@gmail.com) , [Google - @deepakjaiswal1950](http://lmgtfy.com/?q=deepakjaiswal1950)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: During College Semesters, Sometime spending time to learning something which may not be useful in life.
+- ⚡ Fun fact: I don't like to doing something that i'm not intreseted in BUT i have to do that stuff.
 
 <!-- Adding link -->
 [![Twitter: deepakjaiswal__](https://img.shields.io/twitter/follow/deepakjaiswal__?style=social)](https://twitter.com/deepakjaiswal__)
