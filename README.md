@@ -15,9 +15,9 @@
 - 👯 I’m looking to collaborate on [Not Now].
 - 🤔 I’m looking for internship in any tech.
 - 💬 Ask me about Java Development Or Programming problem related stuff.
-- 📫 How to reach me: [Linkedin](https://linkedin.com/in/deepakjaiswal2018) , [Twitter - @deepakjaiswal__](https://twitter.com/deepakjaiswal__) , [Gmail](mailto:deepakjaiswal1950@gmail.com) , [Google - @deepakjaiswal1950](http://lmgtfy.com/?q=deepakjaiswal1950)
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/deepakjaiswal2018) , [Gmail](mailto:deepakjaiswal1950@gmail.com) , [Google - @deepakjaiswal1950](http://lmgtfy.com/?q=deepakjaiswal1950)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I don't like to doing something that i'm not intreseted in BUT i have to do that stuff.
+- ⚡ Fun fact: Don't like to attend college lectures after Pandemic[Going college is full waste of time😂]
 
 <!-- Adding link -->
 [![Twitter: deepakjaiswal__](https://img.shields.io/twitter/follow/deepakjaiswal__?style=social)](https://twitter.com/deepakjaiswal__)
