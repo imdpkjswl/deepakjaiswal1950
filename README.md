@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [Not Yet Working].
 - 🌱 I’m currently learning Algorithms & Web Development.
 - 👯 I’m looking to collaborate on [Not Now].
-- 🤔 I’m looking for internship in any tech.
+- 🤔 I’m looking for ........
 - 💬 Ask me about Java Development Or Programming problem related stuff.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/deepakjaiswal2018) , [Gmail](mailto:deepakjaiswal1950@gmail.com) , [Google - @deepakjaiswal1950](http://lmgtfy.com/?q=deepakjaiswal1950)
 - 😄 Pronouns: He/His
