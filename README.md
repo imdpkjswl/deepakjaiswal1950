@@ -17,7 +17,7 @@
 - 💬 Ask me about Java Development Or Programming problem related stuff.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/deepakjaiswal2018) , [Gmail](mailto:deepakjaiswal1950@gmail.com) , [Google - @deepakjaiswal1950](http://lmgtfy.com/?q=deepakjaiswal1950)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Don't like to attend college lectures after Pandemic[Going college is full waste of time😂]
+- ⚡ Fun fact: Don't like to attend college lectures after Pandemic[Going college is like full waste of time😂]
 
 <!-- Adding link -->
 [![Twitter: deepakjaiswal__](https://img.shields.io/twitter/follow/deepakjaiswal__?style=social)](https://twitter.com/deepakjaiswal__)
