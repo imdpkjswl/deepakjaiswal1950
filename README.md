@@ -23,7 +23,7 @@
 [![Twitter: deepakjaiswal__](https://img.shields.io/twitter/follow/deepakjaiswal__?style=social)](https://twitter.com/deepakjaiswal__)
 [![Linkedin: deepakjaiswal2018](https://img.shields.io/badge/-deepakjaiswal2018-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakjaiswal2018/)](https://www.linkedin.com/in/deepakjaiswal2018/)
 [![GitHub deepakjaiswal2018](https://img.shields.io/github/followers/deepakjaiswal2018?label=follow&style=social)](https://github.com/deepakjaiswal2018)
-[![website](https://img.shields.io/badge/PortfolioWebsite-deepakjaiswal-2648ff?style=flat-square&logo=google-chrome)](https://deepakjaiswal.netlify.app/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-deepakjaiswal-2648ff?style=flat-square&logo=google-chrome)](https://github.com/deepakjaiswal2018/deepakjaiswal2018/)
 
 
 
