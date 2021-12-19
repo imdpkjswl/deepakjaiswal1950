@@ -11,10 +11,10 @@
 
 
 - 🔭 I’m currently working on [Not Yet Working].
-- 🌱 I’m currently learning Algorithms & Web Development.
+- 🌱 I’m currently learning [<------>].
 - 👯 I’m looking to collaborate on [Not Now].
 - 🤔 I’m looking for ........
-- 💬 Ask me about Java Development Or Programming problem related stuff.
+- 💬 Ask me about C++, Java Development Or Programming problem related stuff.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/deepakjaiswal2018) , [Gmail](mailto:deepakjaiswal1950@gmail.com) , [Google - @deepakjaiswal1950](http://lmgtfy.com/?q=deepakjaiswal1950)
 - 😄 Pronouns: He/His
 - 💖 Hobbies: Walking, Music Listening, Zeal to explore something NEW, Fun with Friends, have a lots of more.....
