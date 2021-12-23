@@ -47,6 +47,8 @@
 
 LIFE MEIN JO SAB KUCH DIKHATA HAI, WOH APNA NAHI HOTA.
 JO MILTA HAI, WAHI APNA HOTA HAI.. -- dj💖
+
+
 ```
-                              <------   DEEPAK JAISWAL  ------>
+Note: Some of the repositories have been made private.😞
 ```
