@@ -35,11 +35,11 @@
 
 <!-- Addign some stats by the help of anurag github -->
 <!-- Most lang stats -->
-<a href="https://github.com/deepakjaiswal2022">
+<a href="https://github.com/deepakjaiswal2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjaiswal2022&theme=dark&hide_langs_below=1" />
 </a>
 <!-- Profile highlights -->
-<a href="https://github.com/deepakjaiswal2022">
+<a href="https://github.com/deepakjaiswal2018">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2022&show_icons=true&theme=dark&line_height=40" alt="Deepak's github stats"/>
 </a>
 
