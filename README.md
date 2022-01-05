@@ -36,18 +36,18 @@
 <!-- Addign some stats by the help of anurag github -->
 <!-- Most lang stats -->
 <a href="https://github.com/deepakjaiswal2018">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjaiswal2022&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakjaiswal2018&theme=dark&hide_langs_below=1" />
 </a>
 <!-- Profile highlights -->
 <a href="https://github.com/deepakjaiswal2018">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2022&show_icons=true&theme=dark&line_height=40" alt="Deepak's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakjaiswal2018&show_icons=true&theme=dark&line_height=40" alt="Deepak's github stats"/>
 </a>
 
 
 
-```
+
 LIFE MEIN JO SAB KUCH DIKHATA HAI, WOH APNA NAHI HOTA. JO MILTA HAI, WAHI APNA HOTA HAI... --dj💖(HARD TRUTH)
-```
+
 
 
 Note: Some of the repositories have been made private.😞
