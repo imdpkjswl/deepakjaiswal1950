@@ -1,7 +1,6 @@
 # Hello, I'm [Deepak Jaiswal!](https://github.com/deepakjaiswal2018) 👋
 
 
-<!-- This account self destruction has been scheduled - 31/07/2022 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakjaiswal2018&label=Views&color=blue&style=plastic" alt="deepakjaiswal2018" /> </p>
 
@@ -11,7 +10,7 @@
 
 
 - 🔭 I’m currently working on [Not Yet Working].
-- 🌱 I’m currently learning [<---SOMETHING DIFFERENT--->].
+- 🌱 I’m currently learning [<------>].
 - 👯 I’m looking to collaborate on [Not Now].
 - 🤔 I’m looking for ........
 - 💬 Ask me about C++, Java Development Or Programming problem related stuff.
@@ -46,7 +45,6 @@
 
 
 
-LIFE MEIN JO SAB KUCH DIKHATA HAI, WOH APNA NAHI HOTA. JO MILTA HAI, WAHI APNA HOTA HAI... --dj💖(HARD TRUTH)
 
 
 
