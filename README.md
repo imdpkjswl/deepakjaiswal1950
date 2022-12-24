@@ -17,7 +17,7 @@
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/deepakjaiswal) , [Gmail](mailto:deepakjaiswal1950@gmail.com) , [Google - @deepakjaiswal1950](#)
 - 😄 Pronouns: He/His
 - 💖 Hobbies: Walking, Music Listening, Zeal to explore something NEW, Fun with Friends, have a lots of more.....
-- ⚡ Fun fact: Don't like to attend college lectures after Pandemic[Going college is like full waste of time😂]
+- ⚡ Fun fact: Sab Fun hi hai aur sab kuch fact hi hai aur kya bolu 😊
 
 <!-- Adding link -->
 [![Twitter: deepakjaiswal__](https://img.shields.io/twitter/follow/deepakjaiswal__?style=social)](https://twitter.com/deepakjaiswal__)
